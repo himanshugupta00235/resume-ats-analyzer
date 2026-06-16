@@ -38,11 +38,14 @@ export default function Footer() {
           {/* Contact Info */}
           <div className="text-center space-y-1">
             <p className="text-sm font-medium text-slate-700 dark:text-slate-300">
-              YOUR_FULL_NAME
+              Himanshu Gupta
             </p>
-            <p className="text-sm text-slate-500 dark:text-slate-400">
-              YOUR_EMAIL
-            </p>
+            <a
+  href="mailto:himanshugupta00235@gmail.com"
+  className="text-sm text-slate-500 dark:text-slate-400 hover:underline"
+>
+  himanshugupta00235@gmail.com
+</a>
           </div>
 
           {/* Divider */}
