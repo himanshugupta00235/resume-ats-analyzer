@@ -4,7 +4,7 @@ A powerful, local-first Resume ATS (Applicant Tracking System) Analyzer built wi
 
 <!-- Add screenshot here -->
 
-**[🔗 Live Demo](#)** <!-- Replace with your deployed URL -->
+**[🔗 Live Demo](https://resume-ats-analyzer-ten.vercel.app/)** <!-- Replace with your deployed URL -->
 
 ---
 
